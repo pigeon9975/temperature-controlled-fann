@@ -10,9 +10,9 @@
 >貼上程式碼並上傳至Arduino UNO R3開發板，連接上圖電路，馬達即可根據溫度調整轉速。
 
 ## 實體電風扇程式區
->ArduinoISP_Bootloader為燒錄程式至ATtiny85的程式碼，詳細步驟請見：  
+>* ArduinoISP_Bootloader為燒錄程式至ATtiny85的程式碼，詳細步驟請見：  
 >https://jimirobot.tw/arduino-tutorial-attiny-attiny85-usb/#2_%E5%AE%89%E8%A3%9DDigispark%E7%A1%AC%E9%AB%94%E6%93%B4%E5%85%85%E5%BA%AB  
->ATtiny開發板優點為體積小，但上傳程式需先燒錄，步驟較為麻煩，實則可以用Arduino UNO R3開發板代替之。
+>* ATtiny開發板優點為體積小，但上傳程式需先燒錄，步驟較為麻煩，實則可以用Arduino UNO R3開發板代替之。
 >  
 >ReadTempAndHumidity為測試DHT11溫度感測器功能之程式碼，詳細步驟請見：  
 >https://projecthub.arduino.cc/arcaegecengiz/using-dht11-12f621
