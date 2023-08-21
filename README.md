@@ -18,7 +18,6 @@
 >https://projecthub.arduino.cc/arcaegecengiz/using-dht11-12f621
 >  
 >* DHT11溫度感測器可測量周遭溫度及濕度數據。  
->temperature_digital_high為根據溫度控制實體交流電電風扇切換轉速之程式碼，
-以高電平觸發的繼電器來切換不同段位的電風扇轉速。
+>「溫控電風扇主程式碼」為根據溫度控制實體交流電電風扇切換轉速之程式碼，以高電平觸發的繼電器來切換不同段位的電風扇轉速。
 >![image](https://img.onl/EJtP4d)
 >ATtiny85開發板與三個1路繼電器串接簡圖
